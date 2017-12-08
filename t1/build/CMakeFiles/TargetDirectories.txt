@@ -1,0 +1,3 @@
+/home/sj/cmakePractice/t1/build/CMakeFiles/edit_cache.dir
+/home/sj/cmakePractice/t1/build/CMakeFiles/rebuild_cache.dir
+/home/sj/cmakePractice/t1/build/CMakeFiles/hello.dir
