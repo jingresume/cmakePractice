@@ -1,0 +1,14 @@
+/home/sj/cmakePractice/t3/build/CMakeFiles/install.dir
+/home/sj/cmakePractice/t3/build/CMakeFiles/list_install_components.dir
+/home/sj/cmakePractice/t3/build/CMakeFiles/install/strip.dir
+/home/sj/cmakePractice/t3/build/CMakeFiles/install/local.dir
+/home/sj/cmakePractice/t3/build/CMakeFiles/rebuild_cache.dir
+/home/sj/cmakePractice/t3/build/CMakeFiles/edit_cache.dir
+/home/sj/cmakePractice/t3/build/bin/lib/CMakeFiles/install.dir
+/home/sj/cmakePractice/t3/build/bin/lib/CMakeFiles/list_install_components.dir
+/home/sj/cmakePractice/t3/build/bin/lib/CMakeFiles/rebuild_cache.dir
+/home/sj/cmakePractice/t3/build/bin/lib/CMakeFiles/edit_cache.dir
+/home/sj/cmakePractice/t3/build/bin/lib/CMakeFiles/hello.dir
+/home/sj/cmakePractice/t3/build/bin/lib/CMakeFiles/hello_static.dir
+/home/sj/cmakePractice/t3/build/bin/lib/CMakeFiles/install/strip.dir
+/home/sj/cmakePractice/t3/build/bin/lib/CMakeFiles/install/local.dir
