@@ -1,3 +1,5 @@
 cmake_minimum_required(VERSION 2.6)
 PROJECT(NEWHELLO)
-ADD_SUBDIRECTORY(src)
+ADD_SUBDIRECTORY(src bin)
+ADD_TEST(mytest ${PROJECT_BINARY_DIR}/bin/main)
+ENABLE_TESTING()
