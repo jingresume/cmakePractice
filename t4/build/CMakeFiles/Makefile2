@@ -60,57 +60,57 @@ CMAKE_SOURCE_DIR = /home/sj/cmakePractice/t4
 CMAKE_BINARY_DIR = /home/sj/cmakePractice/t4/build
 
 #=============================================================================
-# Directory level rules for directory src
+# Directory level rules for directory bin
 
 # Convenience name for "all" pass in the directory.
-src/all: src/CMakeFiles/main.dir/all
+bin/all: bin/CMakeFiles/main.dir/all
 
-.PHONY : src/all
+.PHONY : bin/all
 
 # Convenience name for "clean" pass in the directory.
-src/clean: src/CMakeFiles/main.dir/clean
+bin/clean: bin/CMakeFiles/main.dir/clean
 
-.PHONY : src/clean
+.PHONY : bin/clean
 
 # Convenience name for "preinstall" pass in the directory.
-src/preinstall:
+bin/preinstall:
 
-.PHONY : src/preinstall
+.PHONY : bin/preinstall
 
 #=============================================================================
-# Target rules for target src/CMakeFiles/main.dir
+# Target rules for target bin/CMakeFiles/main.dir
 
 # All Build rule for target.
-src/CMakeFiles/main.dir/all:
-	$(MAKE) -f src/CMakeFiles/main.dir/build.make src/CMakeFiles/main.dir/depend
-	$(MAKE) -f src/CMakeFiles/main.dir/build.make src/CMakeFiles/main.dir/build
+bin/CMakeFiles/main.dir/all:
+	$(MAKE) -f bin/CMakeFiles/main.dir/build.make bin/CMakeFiles/main.dir/depend
+	$(MAKE) -f bin/CMakeFiles/main.dir/build.make bin/CMakeFiles/main.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/sj/cmakePractice/t4/build/CMakeFiles --progress-num=1,2 "Built target main"
-.PHONY : src/CMakeFiles/main.dir/all
+.PHONY : bin/CMakeFiles/main.dir/all
 
 # Include target in all.
-all: src/CMakeFiles/main.dir/all
+all: bin/CMakeFiles/main.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-src/CMakeFiles/main.dir/rule: cmake_check_build_system
+bin/CMakeFiles/main.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/sj/cmakePractice/t4/build/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 src/CMakeFiles/main.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 bin/CMakeFiles/main.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/sj/cmakePractice/t4/build/CMakeFiles 0
-.PHONY : src/CMakeFiles/main.dir/rule
+.PHONY : bin/CMakeFiles/main.dir/rule
 
 # Convenience name for target.
-main: src/CMakeFiles/main.dir/rule
+main: bin/CMakeFiles/main.dir/rule
 
 .PHONY : main
 
 # clean rule for target.
-src/CMakeFiles/main.dir/clean:
-	$(MAKE) -f src/CMakeFiles/main.dir/build.make src/CMakeFiles/main.dir/clean
-.PHONY : src/CMakeFiles/main.dir/clean
+bin/CMakeFiles/main.dir/clean:
+	$(MAKE) -f bin/CMakeFiles/main.dir/build.make bin/CMakeFiles/main.dir/clean
+.PHONY : bin/CMakeFiles/main.dir/clean
 
 # clean rule for target.
-clean: src/CMakeFiles/main.dir/clean
+clean: bin/CMakeFiles/main.dir/clean
 
 .PHONY : clean
 

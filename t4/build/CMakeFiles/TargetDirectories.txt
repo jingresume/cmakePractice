@@ -1,5 +1,7 @@
+/home/sj/cmakePractice/t4/build/CMakeFiles/test.dir
 /home/sj/cmakePractice/t4/build/CMakeFiles/edit_cache.dir
 /home/sj/cmakePractice/t4/build/CMakeFiles/rebuild_cache.dir
-/home/sj/cmakePractice/t4/build/src/CMakeFiles/rebuild_cache.dir
-/home/sj/cmakePractice/t4/build/src/CMakeFiles/edit_cache.dir
-/home/sj/cmakePractice/t4/build/src/CMakeFiles/main.dir
+/home/sj/cmakePractice/t4/build/bin/CMakeFiles/test.dir
+/home/sj/cmakePractice/t4/build/bin/CMakeFiles/rebuild_cache.dir
+/home/sj/cmakePractice/t4/build/bin/CMakeFiles/edit_cache.dir
+/home/sj/cmakePractice/t4/build/bin/CMakeFiles/main.dir
